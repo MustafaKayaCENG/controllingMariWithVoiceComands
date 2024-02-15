@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1pXyvxjUnks0YQ/ME+tOBVn+Luv/IRLP+4r/KApONdA8HtYCgVgx0hZVX7pRKDr3PdRYQ/TbPE5XjREgwAhTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mustafa KAYA\\source\\repos\\controllingMario\\controllingMario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mustafa KAYA\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Mustafa KAYA\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.3\\microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512",
+    "C:\\Users\\Mustafa KAYA\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
